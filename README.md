@@ -2,7 +2,7 @@
 
 ### Diagram of the project
 
-![](diagram.PNG)
+![](diagram.png)
 
 ## Overview
 
